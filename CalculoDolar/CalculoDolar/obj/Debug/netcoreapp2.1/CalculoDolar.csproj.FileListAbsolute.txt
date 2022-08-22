@@ -1,0 +1,11 @@
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\bin\Debug\netcoreapp2.1\CalculoDolar.deps.json
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\bin\Debug\netcoreapp2.1\CalculoDolar.runtimeconfig.json
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\bin\Debug\netcoreapp2.1\CalculoDolar.runtimeconfig.dev.json
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\bin\Debug\netcoreapp2.1\CalculoDolar.dll
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\bin\Debug\netcoreapp2.1\CalculoDolar.pdb
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\obj\Debug\netcoreapp2.1\CalculoDolar.csprojAssemblyReference.cache
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\obj\Debug\netcoreapp2.1\CalculoDolar.csproj.CoreCompileInputs.cache
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\obj\Debug\netcoreapp2.1\CalculoDolar.AssemblyInfoInputs.cache
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\obj\Debug\netcoreapp2.1\CalculoDolar.AssemblyInfo.cs
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\obj\Debug\netcoreapp2.1\CalculoDolar.dll
+C:\Users\lucas.vale\source\repos\projetos-em-aula\CalculoDolar\CalculoDolar\obj\Debug\netcoreapp2.1\CalculoDolar.pdb
